@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "ohohdeploy",
+    "y": "ohohdeploy"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
